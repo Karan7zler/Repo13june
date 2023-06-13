@@ -8,6 +8,9 @@ public class June13New {
 
 	}
 	
+	private void method2() {
+		System.out.println("code...karan");	
+	}
 	
 	
 	
@@ -25,7 +28,7 @@ public class June13New {
 		June13New j = new June13New();
 		
 		j.method1();
-		
+		j.method2();
 	}
 
 }
