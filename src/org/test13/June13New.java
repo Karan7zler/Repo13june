@@ -28,7 +28,9 @@ public class June13New {
 		System.out.println("2nd code...ren");
 	}
 	
-	
+	private void method7() {
+		System.out.println("2nd code...yunfei");
+	}
 	
 	
 	
@@ -43,7 +45,7 @@ public class June13New {
 		j.method4();
 		j.method5();
 		j.method6();
-		
+		j.method7();
 		
 		
 		
