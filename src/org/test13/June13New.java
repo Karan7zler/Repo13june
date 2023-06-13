@@ -12,7 +12,9 @@ public class June13New {
 		System.out.println("code...karan");	
 	}
 	
-	
+	private void method3() {
+		System.out.println("code...ren");
+	}
 	
 	
 	
@@ -29,6 +31,7 @@ public class June13New {
 		
 		j.method1();
 		j.method2();
+		j.method3();
 	}
 
 }
