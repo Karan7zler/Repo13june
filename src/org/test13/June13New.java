@@ -16,6 +16,9 @@ public class June13New {
 		System.out.println("code...ren");
 	}
 	
+	private void method4() {
+		System.out.println("code...yunfei");
+	}
 	
 	
 	
@@ -32,6 +35,7 @@ public class June13New {
 		j.method1();
 		j.method2();
 		j.method3();
+		j.method4();
 	}
 
 }
